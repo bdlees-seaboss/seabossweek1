@@ -1,5 +1,8 @@
 #include <stdio.h>
+#include <iostream>
+
 void main()
 {
-	printf("Hellow, worrld!");
+	printf("This is C style!");
+	std::cout <<" This is C++ style" << std::endl;
 }
